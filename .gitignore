@@ -1,0 +1,6 @@
+# este archivo sirve para ignorar ciertos formatos y que estos no sean subidos al repo de la nube, 
+# el motivo de esto es porque GITHUB que es la
+# plataforma de la nube que vamos a ocupar como repositorio (repo), no nos da tanto espacio.
+# La idea es solamente subir c?digo
+# por esta razon, archivos con extensiones excel, csv, sql, etc, deberiamos ignorarlas o
+# nos comeremos todo el espacio de una y relentizaremos la performance
